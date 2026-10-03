@@ -1,0 +1,19 @@
+## Build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+packages/
+
+## Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.suo.old
+
+## Sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*~
